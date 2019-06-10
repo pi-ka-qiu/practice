@@ -1,6 +1,9 @@
 [submodule "graphql-demo"]
 	path = graphql-demo
 	url = https://github.com/ge-ge/graphql-demo.git
-[submodule "node-practice"]
-	path = node-practice
+[submodule "services/user"]
+	path = services/user
+	url = https://github.com/Ge-Ge/user-service.git
+[submodule "services/graphql"]
+	path = services/graphql
 	url = https://github.com/ge-ge/node-practice.git
